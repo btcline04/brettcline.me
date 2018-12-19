@@ -6,7 +6,8 @@ const index = () => {
   return (
     <div>
       <Head>
-        <title>Brett Cline - Software Developer</title>
+        <link rel="shortcut icon" href="static/favicon.ico" />
+        <title>Brett Cline | Software Developer</title>
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <meta name="keywords" content="Brett Cline"/>
@@ -15,9 +16,8 @@ const index = () => {
         <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-exp.min.css" />
         <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-icons.min.css" />
 
-        <link href="https://fonts.googleapis.com/css?family=Cabin" rel="stylesheet" />
-
-
+        <link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" />
       </Head>
 
       <Info />
@@ -30,10 +30,8 @@ const index = () => {
           }
 
           body {
-            background: #c31432;  /* fallback for old browsers */
-            background: -webkit-linear-gradient(to bottom, #c31432, #240b36);  /* Chrome 10-25, Safari 5.1-6 */
-            background: linear-gradient(to bottom, #c31432, #240b36); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-            font-family: 'Cabin', sans-serif;
+            background: #0a192f;
+            font-family: 'Roboto', -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
           }
 
         `}
