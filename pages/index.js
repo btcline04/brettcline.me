@@ -1,6 +1,7 @@
 import React from 'react';
 import Head from 'next/head';
 import Info from '../components/Info';
+import Navbar from '../components/Navbar';
 
 const index = () => {
   return (
@@ -20,6 +21,7 @@ const index = () => {
         <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" />
       </Head>
 
+      <Navbar />
       <Info />
 
       <style global jsx> 
