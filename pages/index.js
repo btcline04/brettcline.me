@@ -9,7 +9,7 @@ const index = () => {
       <Head>
         <link rel="shortcut icon" href="static/favicon.ico" />
         <title>Brett Cline | Software Developer</title>
-        <meta charset="utf-8"/>
+        <meta charSet="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <meta name="keywords" content="Brett Cline"/>
 
@@ -24,7 +24,7 @@ const index = () => {
       <Navbar />
       <Info />
 
-      <style global jsx> 
+      <style global jsx>
         {`
 
           html{
@@ -43,6 +43,3 @@ const index = () => {
 }
 
 export default index;
-
-
-
