@@ -13,11 +13,15 @@ const Info = () => {
 
       <style jsx>
         {`
+          .hero-body {
+            padding-top: 0px;
+          }
+
           .info {
             color: #64ffda;
             padding-left: 175px;
           }
-          
+
           .hi {
             margin-bottom: 5px;
           }
@@ -49,4 +53,3 @@ const Info = () => {
 }
 
 export default Info;
-

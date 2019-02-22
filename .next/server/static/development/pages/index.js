@@ -112,64 +112,64 @@ var _jsxFileName = "/Users/btcline/Development/code/brettcline.me/components/Inf
 
 var Info = function Info() {
   return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-    className: "jsx-1905227827" + " " + "hero hero-lg info container",
+    className: "jsx-723805568" + " " + "hero hero-lg info container",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-    className: "jsx-1905227827" + " " + "hero-body",
+    className: "jsx-723805568" + " " + "hero-body",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
-    className: "jsx-1905227827" + " " + "hi",
+    className: "jsx-723805568" + " " + "hi",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7
     },
     __self: this
   }, "Hi, my name is"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h1", {
-    className: "jsx-1905227827" + " " + "name",
+    className: "jsx-723805568" + " " + "name",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 8
     },
     __self: this
   }, "Brett Cline."), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h1", {
-    className: "jsx-1905227827" + " " + "build",
+    className: "jsx-723805568" + " " + "build",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9
     },
     __self: this
   }, "I build things for the web."), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
-    className: "jsx-1905227827" + " " + "about",
+    className: "jsx-723805568" + " " + "about",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10
     },
     __self: this
   }, "I'm a software engineer based in ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
-    className: "jsx-1905227827" + " " + "city",
+    className: "jsx-723805568" + " " + "city",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10
     },
     __self: this
   }, "Pittsburgh, PA"), " specializing ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("br", {
-    className: "jsx-1905227827",
+    className: "jsx-723805568",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10
     },
     __self: this
   }), "in developing exceptional, high-quality applications for the web.")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    styleId: "1905227827",
-    css: ".info.jsx-1905227827{color:#64ffda;padding-left:175px;}.hi.jsx-1905227827{margin-bottom:5px;}.name.jsx-1905227827{color:white;font-size:60px;margin-bottom:5px;margin-top:0px;font-weight:bold;}.build.jsx-1905227827{color:#8892b0;font-size:60px;font-weight:bold;}.about.jsx-1905227827{color:#8892b0;}.city.jsx-1905227827{color:#64ffda;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9idGNsaW5lL0RldmVsb3BtZW50L2NvZGUvYnJldHRjbGluZS5tZS9jb21wb25lbnRzL0luZm8uanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBY1MsQUFHMkIsQUFLSSxBQUdOLEFBUUUsQUFNQSxBQUlBLFlBakJDLEVBUkksQUFnQkosQUFNakIsQUFJQSxJQXJCQSxTQUlvQixFQVFELElBaEJuQixZQVNpQixDQVFqQixjQVBtQixpQkFDbkIiLCJmaWxlIjoiL1VzZXJzL2J0Y2xpbmUvRGV2ZWxvcG1lbnQvY29kZS9icmV0dGNsaW5lLm1lL2NvbXBvbmVudHMvSW5mby5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCc7XG5cbmNvbnN0IEluZm8gPSAoKSA9PiB7XG4gIHJldHVybiAoXG4gICAgPGRpdiBjbGFzc05hbWU9XCJoZXJvIGhlcm8tbGcgaW5mbyBjb250YWluZXJcIj5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwiaGVyby1ib2R5XCI+XG4gICAgICAgIDxwIGNsYXNzTmFtZT1cImhpXCI+SGksIG15IG5hbWUgaXM8L3A+XG4gICAgICAgIDxoMSBjbGFzc05hbWU9XCJuYW1lXCI+QnJldHQgQ2xpbmUuPC9oMT5cbiAgICAgICAgPGgxIGNsYXNzTmFtZT1cImJ1aWxkXCI+SSBidWlsZCB0aGluZ3MgZm9yIHRoZSB3ZWIuPC9oMT5cbiAgICAgICAgPHAgY2xhc3NOYW1lPVwiYWJvdXRcIj5JJ20gYSBzb2Z0d2FyZSBlbmdpbmVlciBiYXNlZCBpbiA8c3BhbiBjbGFzc05hbWU9XCJjaXR5XCI+UGl0dHNidXJnaCwgUEE8L3NwYW4+IHNwZWNpYWxpemluZyA8YnIvPlxuICAgICAgICBpbiBkZXZlbG9waW5nIGV4Y2VwdGlvbmFsLCBoaWdoLXF1YWxpdHkgYXBwbGljYXRpb25zIGZvciB0aGUgd2ViLjwvcD5cbiAgICAgIDwvZGl2PlxuXG4gICAgICA8c3R5bGUganN4PlxuICAgICAgICB7YFxuICAgICAgICAgIC5pbmZvIHtcbiAgICAgICAgICAgIGNvbG9yOiAjNjRmZmRhO1xuICAgICAgICAgICAgcGFkZGluZy1sZWZ0OiAxNzVweDtcbiAgICAgICAgICB9XG4gICAgICAgICAgXG4gICAgICAgICAgLmhpIHtcbiAgICAgICAgICAgIG1hcmdpbi1ib3R0b206IDVweDtcbiAgICAgICAgICB9XG4gICAgICAgICAgLm5hbWUge1xuICAgICAgICAgICAgY29sb3I6IHdoaXRlO1xuICAgICAgICAgICAgZm9udC1zaXplOiA2MHB4O1xuICAgICAgICAgICAgbWFyZ2luLWJvdHRvbTogNXB4O1xuICAgICAgICAgICAgbWFyZ2luLXRvcDogMHB4O1xuICAgICAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7XG4gICAgICAgICAgfVxuXG4gICAgICAgICAgLmJ1aWxkIHtcbiAgICAgICAgICAgIGNvbG9yOiAjODg5MmIwO1xuICAgICAgICAgICAgZm9udC1zaXplOiA2MHB4O1xuICAgICAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7XG4gICAgICAgICAgfVxuXG4gICAgICAgICAgLmFib3V0IHtcbiAgICAgICAgICAgIGNvbG9yOiAjODg5MmIwO1xuICAgICAgICAgIH1cblxuICAgICAgICAgIC5jaXR5IHtcbiAgICAgICAgICAgIGNvbG9yOiAjNjRmZmRhO1xuICAgICAgICAgIH1cbiAgICAgICAgYH1cbiAgICAgIDwvc3R5bGU+XG4gICAgPC9kaXY+XG4gIClcbn1cblxuZXhwb3J0IGRlZmF1bHQgSW5mbztcblxuIl19 */\n/*@ sourceURL=/Users/btcline/Development/code/brettcline.me/components/Info.js */",
+    styleId: "723805568",
+    css: ".hero-body.jsx-723805568{padding-top:0px;}.info.jsx-723805568{color:#64ffda;padding-left:175px;}.hi.jsx-723805568{margin-bottom:5px;}.name.jsx-723805568{color:white;font-size:60px;margin-bottom:5px;margin-top:0px;font-weight:bold;}.build.jsx-723805568{color:#8892b0;font-size:60px;font-weight:bold;}.about.jsx-723805568{color:#8892b0;}.city.jsx-723805568{color:#64ffda;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9idGNsaW5lL0RldmVsb3BtZW50L2NvZGUvYnJldHRjbGluZS5tZS9jb21wb25lbnRzL0luZm8uanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBY1MsQUFHNkIsQUFJRixBQUtJLEFBR04sQUFRRSxBQU1BLEFBSUEsWUFqQkMsRUFSSSxBQWdCSixBQU1qQixBQUlBLEVBOUJBLEVBU0EsU0FJb0IsRUFRRCxJQWhCbkIsWUFTaUIsQ0FRakIsY0FQbUIsaUJBQ25CIiwiZmlsZSI6Ii9Vc2Vycy9idGNsaW5lL0RldmVsb3BtZW50L2NvZGUvYnJldHRjbGluZS5tZS9jb21wb25lbnRzL0luZm8uanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QgZnJvbSAncmVhY3QnO1xuXG5jb25zdCBJbmZvID0gKCkgPT4ge1xuICByZXR1cm4gKFxuICAgIDxkaXYgY2xhc3NOYW1lPVwiaGVybyBoZXJvLWxnIGluZm8gY29udGFpbmVyXCI+XG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cImhlcm8tYm9keVwiPlxuICAgICAgICA8cCBjbGFzc05hbWU9XCJoaVwiPkhpLCBteSBuYW1lIGlzPC9wPlxuICAgICAgICA8aDEgY2xhc3NOYW1lPVwibmFtZVwiPkJyZXR0IENsaW5lLjwvaDE+XG4gICAgICAgIDxoMSBjbGFzc05hbWU9XCJidWlsZFwiPkkgYnVpbGQgdGhpbmdzIGZvciB0aGUgd2ViLjwvaDE+XG4gICAgICAgIDxwIGNsYXNzTmFtZT1cImFib3V0XCI+SSdtIGEgc29mdHdhcmUgZW5naW5lZXIgYmFzZWQgaW4gPHNwYW4gY2xhc3NOYW1lPVwiY2l0eVwiPlBpdHRzYnVyZ2gsIFBBPC9zcGFuPiBzcGVjaWFsaXppbmcgPGJyLz5cbiAgICAgICAgaW4gZGV2ZWxvcGluZyBleGNlcHRpb25hbCwgaGlnaC1xdWFsaXR5IGFwcGxpY2F0aW9ucyBmb3IgdGhlIHdlYi48L3A+XG4gICAgICA8L2Rpdj5cblxuICAgICAgPHN0eWxlIGpzeD5cbiAgICAgICAge2BcbiAgICAgICAgICAuaGVyby1ib2R5IHtcbiAgICAgICAgICAgIHBhZGRpbmctdG9wOiAwcHg7XG4gICAgICAgICAgfVxuXG4gICAgICAgICAgLmluZm8ge1xuICAgICAgICAgICAgY29sb3I6ICM2NGZmZGE7XG4gICAgICAgICAgICBwYWRkaW5nLWxlZnQ6IDE3NXB4O1xuICAgICAgICAgIH1cblxuICAgICAgICAgIC5oaSB7XG4gICAgICAgICAgICBtYXJnaW4tYm90dG9tOiA1cHg7XG4gICAgICAgICAgfVxuICAgICAgICAgIC5uYW1lIHtcbiAgICAgICAgICAgIGNvbG9yOiB3aGl0ZTtcbiAgICAgICAgICAgIGZvbnQtc2l6ZTogNjBweDtcbiAgICAgICAgICAgIG1hcmdpbi1ib3R0b206IDVweDtcbiAgICAgICAgICAgIG1hcmdpbi10b3A6IDBweDtcbiAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkO1xuICAgICAgICAgIH1cblxuICAgICAgICAgIC5idWlsZCB7XG4gICAgICAgICAgICBjb2xvcjogIzg4OTJiMDtcbiAgICAgICAgICAgIGZvbnQtc2l6ZTogNjBweDtcbiAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkO1xuICAgICAgICAgIH1cblxuICAgICAgICAgIC5hYm91dCB7XG4gICAgICAgICAgICBjb2xvcjogIzg4OTJiMDtcbiAgICAgICAgICB9XG5cbiAgICAgICAgICAuY2l0eSB7XG4gICAgICAgICAgICBjb2xvcjogIzY0ZmZkYTtcbiAgICAgICAgICB9XG4gICAgICAgIGB9XG4gICAgICA8L3N0eWxlPlxuICAgIDwvZGl2PlxuICApXG59XG5cbmV4cG9ydCBkZWZhdWx0IEluZm87XG4iXX0= */\n/*@ sourceURL=/Users/btcline/Development/code/brettcline.me/components/Info.js */",
     __self: this
   }));
 };
@@ -213,8 +213,9 @@ var Navbar = function Navbar() {
       lineNumber: 7
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "",
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "static/logo2.jpg",
+    alt: "",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 8
