@@ -9,15 +9,16 @@
     "build": "next build",
     "start": "next start",
     "export": "next export"
-
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "next": "latest",
+    "@zeit/next-sass": "^1.0.1",
+    "next": "^8.0.3",
+    "node-sass": "^4.11.0",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
-    "spectre.css": "^0.5.7"
+    "spectre.css": "^0.5.8"
   }
 }
