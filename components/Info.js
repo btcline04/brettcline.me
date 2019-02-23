@@ -9,6 +9,7 @@ const Info = () => {
         <h1 className="build">I build things for the web.</h1>
         <p className="about">I'm a software engineer based in <span className="city">Pittsburgh, PA</span> specializing <br/>
         in developing exceptional, high-quality applications for the web.</p>
+        <p className="about">I'm currently working @ <a href="http://www.processly.io" target="_blank" className="employment">Processly</a>.</p>
       </div>
 
       <style jsx>
@@ -44,6 +45,10 @@ const Info = () => {
           }
 
           .city {
+            color: #64ffda;
+          }
+
+          .employment {
             color: #64ffda;
           }
         `}
