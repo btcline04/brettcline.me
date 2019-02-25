@@ -2,7 +2,7 @@ import React from 'react';
 
 const Info = () => {
   return (
-    <div className="hero hero-lg info container">
+    <div className="hero hero-lg info container grid-lg">
       <div className="hero-body">
         <p className="hi">Hi, my name is</p>
         <h1 className="name">Brett Cline.</h1>
@@ -20,7 +20,6 @@ const Info = () => {
 
           .info {
             color: #64ffda;
-            padding-left: 175px;
           }
 
           .hi {
